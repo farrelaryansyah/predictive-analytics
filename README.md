@@ -37,7 +37,7 @@ Untuk menjawab permasalahan tersebut, proyek ini mengembangkan model prediktif b
 
 Dataset yang digunakan dalam proyek ini merupakan hasil *web scraping* dari situs [mofe.co.id](https://mofe.co.id), yang merupakan platform penjualan motor bekas di Indonesia. Dataset difokuskan hanya pada motor bekas **merk Honda**, karena merupakan merk yang paling dominan dan tersedia dalam jumlah yang cukup besar di situs tersebut. Dataset dapat diunduh melalui tautan berikut:
 
-🔗 [Link Dataset (Google Drive)](https://drive.google.com/uc?id=1-y6XXsoTLwaqOevLGh7DCxZGbTyaSBwO)
+🔗 [Link Dataset (Google Drive)]
 
 ### Informasi Dataset
 
